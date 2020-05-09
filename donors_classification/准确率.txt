@@ -1,0 +1,2 @@
+SVM 0.83 gamma < 0.1 rbf
+adaboost 0.85 
